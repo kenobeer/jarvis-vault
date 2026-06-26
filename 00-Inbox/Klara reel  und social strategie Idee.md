@@ -1,0 +1,5 @@
+- klara stimme erklärt die idee und dann stellt sie sich am ende als klara vor
+- generelle aufbau von klara social kampagne würde ich vor product launch starten um idee weiter zu validieren
+- social muss so effizient wie möglich laufen und sollte ein weg sein für mich eine art gtm engineer agent aus zu probieren 
+- das projekt würd ich generell als solo projekt framen und auf den aufbau mit ai um auch beim nicht 100% umsetzung oder erfolg mein können mit ai zu demonstrieren
+-  eine 90s oder 80s stil für die brand identity um vom generischen ai look weg zu kommen und gleichzeitig einen bezug zu den end-usern zu bieten

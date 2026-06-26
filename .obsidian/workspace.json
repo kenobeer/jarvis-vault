@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "4c9348cd85929ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "811540bd4dbb49f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c43643ca93ac64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Job nach Grenoble.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Job nach Grenoble"
+            }
+          },
+          {
+            "id": "10050d64271b2ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Uni/Bondi-Consult/Leitfaden_Praesentation_Slides_10-20.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leitfaden_Praesentation_Slides_10-20"
+            }
+          },
+          {
+            "id": "3f1fa68d0f930587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friday-Einsteiger-Anleitung"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92e505684b7fd7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb4481234363ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b10c474ad6b80e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59f3cbabaa7b3728",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "381fef590aacc2d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b0fb1b020983e0ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd31fd5291282d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d0e59d047437344",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-Uni/Französisch-BlaBlaCar-Präsentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Französisch-BlaBlaCar-Präsentation"
+            }
+          },
+          {
+            "id": "0fcf54fcdf73dbea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-Uni/Französisch-BlaBlaCar-Präsentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Französisch-BlaBlaCar-Präsentation"
+            }
+          },
+          {
+            "id": "eabf097b78980f7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10eceac257df1e34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0a6c8a1b61f32741",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3d4e4f359d585052",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3f1fa68d0f930587",
+  "lastOpenFiles": [
+    "03-Projects/Friday/Friday-Umsetzungsplan.md",
+    "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
+    "03-Projects/Friday/Friday-Spec.md",
+    "03-Projects/Ops-Agent/Ops-Agent-Spec.md",
+    "03-Projects/Friday",
+    "03-Projects/VaultSetup.md",
+    "03-Projects/Ops-Agent",
+    "03-Projects/Klara/Klara-Marketing-Konzept.md",
+    "05-People/Felix-Hohenberg.md",
+    "03-Projects/VaultSetup-obsidian-router-SKILL.md",
+    "03-Projects/projektplan_3d_archiv_website.md",
+    "03-Projects/Personal-Website.md",
+    "01-Ideas/JustImmo-Makler-AI.md",
+    "00-Inbox/Klara reel  und social strategie Idee.md",
+    "00-Inbox/HeyClicky Inspiration für Klara.md",
+    "Untitled",
+    "d",
+    "06-Uni/Bondi-Consult/Leitfaden_Praesentation_Slides_10-20.md",
+    "03-Projects/Career/Outreach-Plan.md",
+    "03-Projects/Klara/HeyClicky-Composio-Inspiration.md",
+    "03-Projects/Klara/Klara-Build-Plan.md",
+    "03-Projects/Bitschnau-EdTech/Bitschnau-EdTech.md",
+    "03-Projects/Career/Job-nach-Grenoble.md",
+    "03-Projects/Career/Career.md",
+    "03-Projects/Investments/EU-Mercosur.md",
+    "Claude.md",
+    "03-Projects/Bitschnau-EdTech/Produkt-Operations.md",
+    "00-Inbox/Job nach Grenoble.md",
+    "01-Ideas/Vibe-B.md",
+    "00-Inbox/Anreise grenoble.md",
+    "03-Projects/Klara",
+    "06-Uni/BondiConsult",
+    "04-VC",
+    "03-Projects/Gabel-und-Glas/Website",
+    "03-Projects/Investments",
+    "03-Projects/Gabel-und-Glas"
+  ]
+}
