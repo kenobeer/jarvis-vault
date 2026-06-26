@@ -109,3 +109,22 @@ Friday läuft auf Railway, täglich Menü + Heartbeat, Sonntag Review, hält Tag
 ## Related
 - [[Friday-Spec]]
 - Repo: `friday/`
+
+---
+
+## Stand 2026-06-26
+
+**Session mit Claude Code (26.6.):**
+
+- ✅ Phase 0 abgeschlossen: lokales Setup, `.venv`, `requirements.txt`, FastAPI bootet
+- ✅ Phase 1 Schritte 1–3: TickTick OAuth-App registriert, `client_id` + `secret` + `access_token` in `.env`, Live-Read erfolgreich (5 Projekte: Work, Personal, Exercise, Uni, Shopping)
+- ✅ Phase 2 Schritte 1–3: BotFather-Bot erstellt, `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` + `TELEGRAM_SECRET` in `.env`, `send_message` kommt an
+- ✅ GitHub-Vault-Sync eingerichtet (Obsidian-Git)
+
+**Noch offen:**
+- ⬜ Phase 1 Schritt 4: Merge-Experiment (set_tags auf Testtask, manuelle Tags bleiben erhalten)
+- ⬜ `ANTHROPIC_API_KEY` in `.env` eintragen (console.anthropic.com)
+- ⬜ `VAULT_REPO_URL` in `.env` eintragen (privates GitHub-Repo des Vault)
+- ⬜ Phase 3+: Engine-Logik, erster echter Tagespass
+
+**Nächster Schritt:** `ANTHROPIC_API_KEY` + `VAULT_REPO_URL` in `.env` → Merge-Experiment → Phase 3.
