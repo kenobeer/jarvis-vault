@@ -124,3 +124,16 @@ updated: '2026-04-30'
 - Presseartikel-Strategie (vor Angel-Gesprächen)
 
 **Linked to:** [[03-Projects/Gabel-und-Glas/GabelGlas-Strategisches-Audit]] · [[03-Projects/Gabel-und-Glas/Paul-Ostwald-Feedback]] · [[05-People/Paul-Ostwald]]
+
+### 2026-06-28 — Marketing-Strategie Phase 0 + Rechtsfrage Reservierungsliste
+**Was passierte:** Start der Marketing-Strategie-Entwicklung (Schwerpunkt Social). Phase-0-Framing erstellt: Wissen vs. Annahmen getrennt, 4 Research-Kernfragen definiert. Rechtsfrage zur Zenchef-Reservierungsliste recherchiert und geklärt.
+**Decisions:**
+- Reservierungsliste (1–3k) ist im Default NICHT für G&G nutzbar (§174 TKG, Dritt-Werbung + Zweckbindung). Strategie baut auf In-Restaurant-Opt-in + Going-forward-Erfassung + organisch.
+- Strategie in zwei Layer: Strategie (an Meilensteine gekoppelt) + Execution (mit Designerin)
+- Neuer `Marketing/`-Unterordner für die Strategiearbeit
+**Open threads:**
+- Deep-Research-Prompts bauen (Phase 1)
+- Rechtsfrage vor erstem Send einem Datenschutzjuristen vorlegen
+- Zenchef-Opt-in-Setup prüfen (hat es je ein Marketing-Opt-in erfasst?)
+
+**Linked to:** [[03-Projects/Gabel-und-Glas/Marketing/Marketing-Strategie-Phase0]] · [[03-Projects/Gabel-und-Glas/Marketing/Recht-Reservierungsliste-Zenchef]]
