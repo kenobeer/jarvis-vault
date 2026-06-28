@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/Friday/Friday-Umsetzungsplan.md",
+                "file": "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday-Umsetzungsplan"
+              "title": "Friday-Einsteiger-Anleitung"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/Friday/Friday-Umsetzungsplan.md",
+                "file": "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Friday-Umsetzungsplan"
+              "title": "Outline of Friday-Einsteiger-Anleitung"
             }
           },
           {
@@ -215,10 +215,10 @@
   },
   "active": "10050d64271b2ae2",
   "lastOpenFiles": [
+    "03-Projects/Friday/Friday-Umsetzungsplan.md",
     "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
     "03-Projects/Bitschnau-EdTech/Bitschnau-EdTech.md",
     "03-Projects/Bitschnau-EdTech/TEMP-Meeting-Prep.md",
-    "03-Projects/Friday/Friday-Umsetzungsplan.md",
     "03-Projects/Friday/Friday-Spec.md",
     "03-Projects/Ops-Agent/Ops-Agent-Spec.md",
     "06-Uni/Bondi-Consult/Leitfaden_Praesentation_Slides_10-20.md",
