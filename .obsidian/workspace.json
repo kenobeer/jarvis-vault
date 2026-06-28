@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
+                "file": "03-Projects/Friday/Friday-Spec.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday-Einsteiger-Anleitung"
+              "title": "Friday-Spec"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
+                "file": "03-Projects/Friday/Friday-Spec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Friday-Einsteiger-Anleitung"
+              "title": "Outline of Friday-Spec"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "10050d64271b2ae2",
   "lastOpenFiles": [
-    "03-Projects/Friday/Friday-Umsetzungsplan.md",
     "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
+    "03-Projects/Friday/Friday-Umsetzungsplan.md",
     "03-Projects/Bitschnau-EdTech/Bitschnau-EdTech.md",
     "03-Projects/Bitschnau-EdTech/TEMP-Meeting-Prep.md",
     "03-Projects/Friday/Friday-Spec.md",
