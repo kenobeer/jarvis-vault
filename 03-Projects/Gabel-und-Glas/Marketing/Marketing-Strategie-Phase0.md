@@ -83,3 +83,17 @@ Ausgangspunkt für die Entwicklung einer Marketing-Strategie (Schwerpunkt Social
 ## Nachtrag 2026-06-28 — Premisse 6 (validiert)
 
 **Premisse 6: Newsletter ist für die Zielgruppe eine unteretablierte Kategorie.** In den USA boomend, in DACH noch nicht. Validiert via Recherche und über Morning Crunch (Paul Ostwald) als direkten Vergleichsfall: 0 auf ~200k Leser seit Ende 2023, 55-56% Open Rate, junge Leser griffen zu. Schneidet in beide Richtungen (weniger Konkurrenz, aber Verhaltensänderung nötig). Details und Caveats: [[03-Projects/Gabel-und-Glas/Marketing/Premisse-Newsletter-Kategorie]]
+
+
+---
+
+## Nachtrag 2026-06-28 (Teil 2) — Lauf 2 ausgewertet
+
+**Annahme 4 (Lutzis Stimme treibt Social-Wachstum):** Gestützt im Prinzip, ABER contingent auf Founder-Format-Fit. Vergleichbare stimmgetriebene Marken sind persönlichkeitsgetragen (Gesicht/Stimme), nicht anonyme Ästhetik. Offene Frage für Phase 2: tritt Lutzi auf Social mit Gesicht/Stimme auf? Davon hängt die Aggressivität der Social-Strategie ab.
+
+**Annahme 2 (Restaurants promoten G&G via QR-Wert):** Noch offen, wird in Research-Lauf 3 (Venue-Loops) geklärt. Lauf 2 liefert aber Kontext: lokale Partnerschaften + Offline-to-Online waren bei Local-Newsletter-Cases tragend (6AM City, Popchop).
+
+**NEUE zentrale strategische Entscheidung für Phase 2 — Archetyp A vs B:**
+Unbestechlicher Kritiker (Vittles-Modell, = weiße Fläche, höchste Conversion via Kontroverse) vs. positiver Stadt-Booster (6AM/Charlotte-Modell, skaliert größer, sponsorenfreundlich). Der QR-Loop zieht zu B, Positionierung zu A. Empfohlene Auflösung: Hybrid — Editorial unabhängig (A), QR-Loop nur bei ohnehin empfohlenen Lokalen, nie Review gegen Distribution tauschen. Details: [[03-Projects/Gabel-und-Glas/Marketing/Research-Lauf2-Synthese]]
+
+**Kanal-Konsequenz:** Instagram = primärer Discovery-Funnel (nicht einziger Motor). WhatsApp = Retention, nicht Phase 1. TikTok contingent auf Lutzi. LinkedIn nur als Sponsoren-B2B-Kanal. Social ausschließlich Funnel mit expliziter Capture-Mechanik, nie Destination.
