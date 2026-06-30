@@ -25,7 +25,7 @@
               "state": {
                 "file": "03-Projects/Gabel-und-Glas/Marketing/Deep-Research-Prompts.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Deep-Research-Prompts"
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9b10c474ad6b80e",
+  "active": "10050d64271b2ae2",
   "lastOpenFiles": [
     "03-Projects/Gabel-und-Glas/Marketing/Premisse-Newsletter-Kategorie.md",
     "03-Projects/Gabel-und-Glas/Marketing/Marketing-Strategie-Phase0.md",

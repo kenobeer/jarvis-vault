@@ -64,7 +64,7 @@ ZENTRALE FRAGE
 Wie sind vergleichbare stimmgetriebene, bootstrapped Local-/City-/Food-Newsletter und Medien-Mikromarken tatsächlich gewachsen, vor allem über Social, und wie sieht die optimale Kanal-Architektur für ein Newsletter-first-Business aus (welcher Kanal spielt welche Rolle)?
 
 TEIL A — CASE-MINING
-Untersuche konkrete vergleichbare Marken und ihre frühe Wachstumsphase (0 bis ~10.000 Subscriber). Kandidaten u.a.: The Infatuation (Frühphase), Vittles, 6AM City und andere US-City-Newsletter, Eater (Frühphase), Nachbarschafts-/Stadt-Newsletter, sowie DACH-Beispiele falls vorhanden. Für jede Marke:
+Untersuche konkrete vergleichbare Marken und ihre frühe Wachstumsphase (0 bis ~10.000 Subscriber) und weitere Wachstum Phase (~10.000 Subscriber bis ~100.000 Subscriber). Kandidaten u.a.: The Infatuation (Frühphase), Vittles, 6AM City und andere US-City-Newsletter, Eater (Frühphase), Nachbarschafts-/Stadt-Newsletter, sowie DACH-Beispiele falls vorhanden. Für jede Marke:
 - Wie wuchs sie früh konkret? (Welcher Kanal, welche Mechanik)
 - Welche Social-Kanäle, welches Content-Format, welche Frequenz?
 - Was hat nachweislich funktioniert, was nicht?
