@@ -76,3 +76,10 @@ Ausgangspunkt für die Entwicklung einer Marketing-Strategie (Schwerpunkt Social
 ---
 
 *Linked to:* [[03-Projects/Gabel-und-Glas/Gabel-und-Glas]] · [[03-Projects/Gabel-und-Glas/GabelGlas-Strategisches-Audit]] · [[03-Projects/Gabel-und-Glas/analyse-opportunitaeten]] · [[03-Projects/Gabel-und-Glas/analyse-schwachstellen]] · [[03-Projects/Gabel-und-Glas/Marketing/Recht-Reservierungsliste-Zenchef]]
+
+
+---
+
+## Nachtrag 2026-06-28 — Premisse 6 (validiert)
+
+**Premisse 6: Newsletter ist für die Zielgruppe eine unteretablierte Kategorie.** In den USA boomend, in DACH noch nicht. Validiert via Recherche und über Morning Crunch (Paul Ostwald) als direkten Vergleichsfall: 0 auf ~200k Leser seit Ende 2023, 55-56% Open Rate, junge Leser griffen zu. Schneidet in beide Richtungen (weniger Konkurrenz, aber Verhaltensänderung nötig). Details und Caveats: [[03-Projects/Gabel-und-Glas/Marketing/Premisse-Newsletter-Kategorie]]
