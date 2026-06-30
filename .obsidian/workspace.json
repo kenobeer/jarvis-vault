@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Projects/Gabel-und-Glas/Marketing/Deep-Research-Prompts.md",
+                "file": "03-Projects/Friday/Friday-Umsetzungsplan.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deep-Research-Prompts"
+              "title": "Friday-Umsetzungsplan"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/Gabel-und-Glas/Marketing/Deep-Research-Prompts.md",
+                "file": "03-Projects/Friday/Friday-Umsetzungsplan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deep-Research-Prompts"
+              "title": "Outline of Friday-Umsetzungsplan"
             }
           },
           {
@@ -211,10 +211,15 @@
   },
   "active": "10050d64271b2ae2",
   "lastOpenFiles": [
+    "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
+    "03-Projects/Personal-Website.md",
+    "03-Projects/projektplan_3d_archiv_website.md",
+    "03-Projects/VaultSetup.md",
+    "03-Projects/VaultSetup-obsidian-router-SKILL.md",
+    "03-Projects/Gabel-und-Glas/Marketing/Deep-Research-Prompts.md",
     "03-Projects/Gabel-und-Glas/Marketing/Research-Lauf2-Synthese.md",
     "03-Projects/Gabel-und-Glas/Marketing/Premisse-Newsletter-Kategorie.md",
     "03-Projects/Gabel-und-Glas/Marketing/Marketing-Strategie-Phase0.md",
-    "03-Projects/Gabel-und-Glas/Marketing/Deep-Research-Prompts.md",
     "06-Uni/Anreise-Grenoble.md",
     "06-Uni/Erasmus-Foerderung.md",
     "03-Projects/Gabel-und-Glas/analyse-schwachstellen.md",
@@ -225,20 +230,15 @@
     "03-Projects/Gabel-und-Glas/Marketing/Recht-Reservierungsliste-Zenchef.md",
     "03-Projects/Friday/Friday-Spec.md",
     "03-Projects/Gabel-und-Glas/Marketing",
-    "03-Projects/Friday/Friday-Einsteiger-Anleitung.md",
     "03-Projects/Friday/Friday-Umsetzungsplan.md",
     "03-Projects/Bitschnau-EdTech/Bitschnau-EdTech.md",
     "03-Projects/Bitschnau-EdTech/TEMP-Meeting-Prep.md",
     "03-Projects/Ops-Agent/Ops-Agent-Spec.md",
     "06-Uni/Bondi-Consult/Leitfaden_Praesentation_Slides_10-20.md",
     "03-Projects/Friday",
-    "03-Projects/VaultSetup.md",
     "03-Projects/Ops-Agent",
     "03-Projects/Klara/Klara-Marketing-Konzept.md",
     "05-People/Felix-Hohenberg.md",
-    "03-Projects/VaultSetup-obsidian-router-SKILL.md",
-    "03-Projects/projektplan_3d_archiv_website.md",
-    "03-Projects/Personal-Website.md",
     "01-Ideas/JustImmo-Makler-AI.md",
     "Untitled",
     "d",

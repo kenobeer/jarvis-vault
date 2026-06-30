@@ -121,10 +121,20 @@ Friday läuft auf Railway, täglich Menü + Heartbeat, Sonntag Review, hält Tag
 - ✅ Phase 2 Schritte 1–3: BotFather-Bot erstellt, `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` + `TELEGRAM_SECRET` in `.env`, `send_message` kommt an
 - ✅ GitHub-Vault-Sync eingerichtet (Obsidian-Git)
 
-**Noch offen:**
-- ⬜ Phase 1 Schritt 4: Merge-Experiment (set_tags auf Testtask, manuelle Tags bleiben erhalten)
-- ⬜ `ANTHROPIC_API_KEY` in `.env` eintragen (console.anthropic.com)
-- ⬜ `VAULT_REPO_URL` in `.env` eintragen (privates GitHub-Repo des Vault)
-- ⬜ Phase 3+: Engine-Logik, erster echter Tagespass
+---
 
-**Nächster Schritt:** `ANTHROPIC_API_KEY` + `VAULT_REPO_URL` in `.env` → Merge-Experiment → Phase 3.
+## Stand 2026-06-30
+
+**Phasenstatus:**
+- ✅ Phase 0 — Lokales Setup: abgeschlossen
+- ✅ Phase 1 — TickTick OAuth: abgeschlossen, Tags funktionieren
+- ✅ Phase 2 — Telegram: abgeschlossen, Nachrichten kommen an
+- ✅ Phase 3 — Engine-Logik: tägliche Nachrichten laufen seit Deployment, Fragen + Tap-Bestätigung funktionieren
+- ✅ Phase 4 — Capture: deployed. `CAPTURE_ENTITY_MAP` gesetzt (`Micha:Bitschnau,Luca:Bitschnau,Lutz:G&G`). Noch nicht getestet.
+- ✅ Phase 5 — Vault-Bridge: Code fertig, `VAULT_REPO_URL` mit Token in Railway, `nixpacks.toml` deployed (git-Fix). Weekly-Run läuft erst nächsten Sonntag — noch nicht verifiziert.
+- ✅ Phase 6 — Railway-Deploy: läuft stabil, tägliche Nachrichten kommen jeden Morgen an
+- ⬜ Phase 7 — Go-Live + Bootstrap: TickTick-Filter anlegen, Bestand-Tasks taggen
+
+**TickTick-Projekte (exakte Namen):** `Uni`, `Klara`, `Bitschnau`, `G&G`, `Work`
+
+**Nächste Session:** Fokus auf Usability — Telegram-Nachrichtenformat überarbeiten (Struktur, Länge, Lesbarkeit der täglichen Nachrichten und Capture-Bestätigungen). Dafür: `app/engine/protocols.py` (Prompts) und `app/engine/runner.py` (Formatting-Logik).
