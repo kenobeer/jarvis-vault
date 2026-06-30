@@ -31,8 +31,7 @@
               "title": "Erasmus-Foerderung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2623ea8fd6ca0be6",
+  "active": "978455474e972bf2",
   "lastOpenFiles": [
     "06-Uni/Anreise-Grenoble.md",
     "Claude.md",
